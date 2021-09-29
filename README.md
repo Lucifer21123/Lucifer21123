@@ -1,3 +1,4 @@
+![businessman-using-digital-tablet](https://user-images.githubusercontent.com/91240661/135219999-bf3139b4-b25f-4ac0-a06f-4eacc7d8fa17.jpg)
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm a Senior Full-Stack Developer<br>who LOVES KEEPING IN TOUCH WITH COLLEAGUES at anytime.</h1>
     <h2 align="center">A passionate & creative WEB & APP developer</h2>
 <p align="center"></p>
