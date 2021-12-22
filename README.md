@@ -1,7 +1,6 @@
 ![businessman-using-digital-tablet](https://user-images.githubusercontent.com/91240661/135219999-bf3139b4-b25f-4ac0-a06f-4eacc7d8fa17.jpg)
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm a Senior Full-Stack Developer<br>who LOVES KEEPING IN TOUCH WITH COLLEAGUES at anytime.</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%230E8DF7&center=true&lines=FullStack+blockchain+developer"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%230E8DF7&size=40&center=true&vCenter=true&width=750&height=100&lines=FullStack+blockchain+developer"></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lucifer1003&label=Profile%20views&color=0e75b6&style=flat" alt="Lucifer1003" /> </p>
 <p align="center" style = "size:16px;">
@@ -19,7 +18,7 @@ I am passionate about front-end development as technology innovation, and I have
 I look forward to being a part of a growing company as a front-end developer where I can utilize exceptional programming and interpersonal skills acquired to contribute to your company's success.
 
 Technologies: 
-Git, Github, HTML, CSS, SASS, Javascript, Typescript, Python, React, Angular, Vue, React Native, Ionic, Flutter, Node, Nest, Ruby, Django, Agile, AWS, Docker, Jest, Mocha, solidity
+<span style="color:#F71111">Git, Github, HTML, CSS, SASS, Javascript, Typescript, Python, React, Angular, Vue, React Native, Ionic, Flutter, Node, Nest, Ruby, Django, Agile, AWS, Docker, Jest, Mocha, solidity</span>
 
 <b> It is my goal to understand the clients' needs clearly and to deliver a high-quality project on time at an optimal cost.</b>
 </i>
